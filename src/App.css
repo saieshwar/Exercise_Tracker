@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+.parent {
+  display: flex;
+  justify-content: space-around;
+}
+.chartjs-render-monitor {
+  height: 200px !important;
+  width: 400px !important;
+}
+#jumbo {
+  padding: 1rem 0.5rem;
+}
